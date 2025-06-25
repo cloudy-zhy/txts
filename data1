@@ -1,0 +1,28 @@
+ls
+cd ~
+ls
+vim .bashrc
+git status
+ls
+cd ~
+python3 --version
+sudo apt update
+ls
+grep "error" /var/log/syslog
+docker ps -a
+ls
+ssh user@remote-server
+history | tail -n 20
+ping google.com
+ls
+curl -I https://example.com
+df -h
+top
+ls
+cat /etc/os-release
+mkdir project
+rm -rf node_modules/
+chmod 755 script.sh
+ls
+scp file.txt user@remote:/path/
+ls
