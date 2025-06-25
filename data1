@@ -1,28 +1,19 @@
-ls
-cd ~
-ls
-vim .bashrc
-git status
-ls
-cd ~
-python3 --version
-sudo apt update
-ls
-grep "error" /var/log/syslog
-docker ps -a
-ls
-ssh user@remote-server
-history | tail -n 20
-ping google.com
-ls
-curl -I https://example.com
-df -h
-top
-ls
-cat /etc/os-release
-mkdir project
-rm -rf node_modules/
-chmod 755 script.sh
-ls
-scp file.txt user@remote:/path/
-ls
+   142 ls
+    89 cd ~
+    76 vim .bashrc
+    65 git status
+    54 python3 --version
+    43 sudo apt update
+    32 grep "error" /var/log/syslog
+    21 docker ps -a
+    18 ssh user@remote-server
+    15 history | tail -n 20
+    12 ping google.com
+     9 curl -I https://example.com
+     7 df -h
+     6 top
+     5 cat /etc/os-release
+     4 mkdir project
+     3 rm -rf node_modules/
+     2 chmod 755 script.sh
+     1 scp file.txt user@remote:/path/
