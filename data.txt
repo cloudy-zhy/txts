@@ -1,0 +1,6 @@
+123 ls -l
+456 cd /var/log
+789 grep "error" syslog
+234 sudo apt update
+567 man grep
+890 history | tail -n 10
